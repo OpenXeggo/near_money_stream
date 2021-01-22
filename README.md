@@ -2,7 +2,7 @@ Xeggo
 ==================
 Very soon migrate to xeggo.co  Stay tuned!!
 
-Video working link:  https://drive.google.com/file/d/1YmgNmwcRBjmCeYiNGtEV4zu7KrUqgOJb/view
+Video working link:   https://drive.google.com/file/d/1YmgNmwcRBjmCeYiNGtEV4zu7KrUqgOJb/view
 
 
 Quick Start
