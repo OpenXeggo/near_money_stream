@@ -1,4 +1,4 @@
-const CONTRACT_NAME = 'neardapp.testnet'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'neardapp.testnet'
 
 function getConfig(env) {
 	return {
