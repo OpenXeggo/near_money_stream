@@ -1,6 +1,6 @@
 Xeggo
 ==================
-Very soon migrate to xeggo.co  Stay tuned!!
+App deployment link:  https://bit.ly/39dWNYk
 
 Video working link:   https://drive.google.com/file/d/1YmgNmwcRBjmCeYiNGtEV4zu7KrUqgOJb/view
 
